@@ -1,5 +1,4 @@
 ![Imagen de presentacion](/header.png)
-### Hi there 👋
 #### Having fun with Github Pages
 #### Academical Background
   - ##### High Technician Developer of Sofware Aplications
