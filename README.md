@@ -8,6 +8,8 @@ I'm David Lázaro from a lost island in the atlantic ocean, you probably never h
   - ##### C1 English
   - ##### Computer Science Engineer
 I love to play tennis, staying fit and healthy food. 
+My favourite movie of all time is The Matrix
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=108534&width=435&lines=Wake+up%2C+Neo...)](https://git.io/typing-svg)
 
 <!--
 **alu0100770032/alu0100770032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
