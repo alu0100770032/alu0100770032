@@ -1,11 +1,13 @@
 ![Imagen de presentacion](/header.png)
-#### Having fun with Github Pages
+#### Having fun with Github
+*I am from the Moon*
+I'm David Lázaro from a lost island in the atlantic ocean, you probably never heard of me. And I never thought I would write a README about me, so here it goes a READ*me*.
 #### Academical Background
   - ##### High Technician Developer of Sofware Aplications
   - ##### High Technician Web Developer
   - ##### C1 English
   - ##### Computer Science Engineer
-
+I love to play tennis, staying fit and healthy food. 
 
 <!--
 **alu0100770032/alu0100770032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
