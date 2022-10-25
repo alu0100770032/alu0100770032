@@ -1,4 +1,4 @@
-![Imagen de presentacion](/header)
+![Imagen de presentacion](/header.png)
 ### Hi there 👋
 #### Having fun with Github Pages
 #### Academical Background
