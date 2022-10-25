@@ -1,4 +1,12 @@
+![Imagen de presentacion](/header)
 ### Hi there 👋
+#### Having fun with Github Pages
+#### Academical Background
+  - ##### High Technician Developer of Sofware Aplications
+  - ##### High Technician Web Developer
+  - ##### C1 English
+  - ##### Computer Science Engineer
+
 
 <!--
 **alu0100770032/alu0100770032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
